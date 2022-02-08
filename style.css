@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to right, skyblue,  pink);
+   font-family: 'Supermercado One', cursive;
+}
+.google_lens_heading_div{
+    font-size: 30px;
+    color:hotpink ;
+}
+
+.Mobile_net_heading_div{
+    font-size: 30px;
+    color:rgb(81, 160, 250) ;
+}
+
+.img-responsive {
+    border-radius: 24px;
+}
+
+#the-result{
+    font-size: 30px;
+    color: magenta;
+}
+
+.test_image_and_result{
+    font-size:30px;
+    color: magenta;
+}
+
+h4{
+    font-size: 25px;
+}
